@@ -6,6 +6,8 @@ Install this apk as a regular app.
 
 Move sparkle.config to /data/local/tmp/
 
+
+
 Options in sparkle.config:
 
 SwapInterval: 0 - disable FPS limit, 1 - enable limited FPS;

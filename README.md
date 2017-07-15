@@ -1,4 +1,8 @@
+# Sparkle App
+
 User app for outputting xorg with surfaceflinger.
+
+# Configuration
 
 Before installing app you must compile and install xorg drivers to your chroot environment (sparkle-video, sparkle-input, sparkle-sound).
 
@@ -8,7 +12,7 @@ Move sparkle.config to /data/local/tmp/
 
 
 
-Options in sparkle.config:
+# Options in sparkle.config:
 
 SwapInterval: 0 - disable FPS limit, 1 - enable limited FPS;
 
